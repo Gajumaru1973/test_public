@@ -4,3 +4,6 @@ Just add new line for pull.
 one more comment.
 
 One more change at local PC!
+
+Change made again at Remote side for test
+of pull action.
