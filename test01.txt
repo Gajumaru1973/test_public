@@ -9,5 +9,3 @@ Change made again at Remote side for test
 of pull action.
 
 
-
-Change at local PC again.
