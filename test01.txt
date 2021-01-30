@@ -1,3 +1,7 @@
 this is 2nd git test
 new file will be added.
+<<<<<<< HEAD
 3rd test
+=======
+4th test.
+>>>>>>> 2df1f5199b4e897fc2f0e05b9f176e233a9e00a6
